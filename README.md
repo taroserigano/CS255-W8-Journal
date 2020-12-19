@@ -1,7 +1,6 @@
 # CS255-W8-Journal
 
-### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-What did you do particularly well?
+### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? What did you do particularly well?
 
 -DriverPass was our new client and a driving school that recently wanted to start hosting an online application and a website 
 that lets students take practice lessons and exams. I've successfully implemented some of the newest cutting-edge
